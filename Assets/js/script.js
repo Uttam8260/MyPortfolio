@@ -332,7 +332,7 @@ resume.to("#imgTwo",{
 
 //type-write
 var typed = new Typed('#typed', {
-    strings: ['Backend-End Developer','WebSite Designer','Computer Science Engineer'],
+    strings: ['Backend-End Developer','WebSite Designer','Computer Science Engineerring student'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
